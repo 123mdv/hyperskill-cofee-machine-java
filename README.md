@@ -1,4 +1,4 @@
-# hyperskill-cofee-machine-java
+# hyperskill-coffee-machine-java
 
 This is a Java learning project from Hyperskill/JetBrains Academy, more details here: https://hyperskill.org/projects/33?goal=7
 
