@@ -1,0 +1,389 @@
+/.gradle/5.3.1/executionHistory/executionHistory.bin
+/.gradle/5.3.1/executionHistory/executionHistory.lock
+/.gradle/5.3.1/fileChanges/last-build.bin
+/.gradle/5.3.1/fileContent/fileContent.lock
+/.gradle/5.3.1/fileHashes/fileHashes.bin
+/.gradle/5.3.1/fileHashes/fileHashes.lock
+/.gradle/5.3.1/fileHashes/resourceHashesCache.bin
+/.gradle/5.3.1/javaCompile/classAnalysis.bin
+/.gradle/5.3.1/javaCompile/jarAnalysis.bin
+/.gradle/5.3.1/javaCompile/javaCompile.lock
+/.gradle/5.3.1/javaCompile/taskHistory.bin
+/.gradle/5.3.1/gc.properties
+/.gradle/buildOutputCleanup/buildOutputCleanup.lock
+/.gradle/buildOutputCleanup/cache.properties
+/.gradle/buildOutputCleanup/outputFiles.bin
+/.gradle/vcs-1/gc.properties
+/.idea/frameworkLessonHistory/storage.storageData
+/.idea/frameworkLessonHistory/storage.storageRecordIndex
+/.idea/libraries/Gradle__com_cedarsoftware_json_io_4_10_1.xml
+/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml
+/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_9_8.xml
+/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml
+/.idea/libraries/Gradle__com_github_hyperskill_hs_test_v6_0_1.xml
+/.idea/libraries/Gradle__com_github_stefanbirkner_system_rules_1_19_0.xml
+/.idea/libraries/Gradle__com_google_code_gson_gson_2_8_5.xml
+/.idea/libraries/Gradle__commons_codec_commons_codec_1_11.xml
+/.idea/libraries/Gradle__commons_logging_commons_logging_1_2.xml
+/.idea/libraries/Gradle__junit_junit_4_11.xml
+/.idea/libraries/Gradle__junit_junit_4_12.xml
+/.idea/libraries/Gradle__org_apache_httpcomponents_httpclient_4_5_9.xml
+/.idea/libraries/Gradle__org_apache_httpcomponents_httpcore_4_4_11.xml
+/.idea/libraries/Gradle__org_assertj_assertj_core_3_8_0.xml
+/.idea/libraries/Gradle__org_assertj_assertj_swing_3_8_0.xml
+/.idea/libraries/Gradle__org_assertj_assertj_swing_junit_3_8_0.xml
+/.idea/libraries/Gradle__org_easytesting_fest_reflect_1_4_1.xml
+/.idea/libraries/Gradle__org_easytesting_fest_util_1_2_5.xml
+/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml
+/.idea/modules/Coffee Machine/task/Coffee_Machine-task.iml
+/.idea/modules/Coffee Machine/task/Coffee_Machine-task_main.iml
+/.idea/modules/Coffee Machine/task/Coffee_Machine-task_test.iml
+/.idea/modules/Problems/Account/Problems-Account.iml
+/.idea/modules/Problems/Account/Problems-Account_main.iml
+/.idea/modules/Problems/Account/Problems-Account_test.iml
+/.idea/modules/Problems/Account and its owner/Problems-Account_and_its_owner.iml
+/.idea/modules/Problems/Account and its owner/Problems-Account_and_its_owner_main.iml
+/.idea/modules/Problems/Account and its owner/Problems-Account_and_its_owner_test.iml
+/.idea/modules/Problems/Application as a class/Problems-Application_as_a_class.iml
+/.idea/modules/Problems/Application as a class/Problems-Application_as_a_class_main.iml
+/.idea/modules/Problems/Application as a class/Problems-Application_as_a_class_test.iml
+/.idea/modules/Problems/Balance management/Problems-Balance_management.iml
+/.idea/modules/Problems/Balance management/Problems-Balance_management_main.iml
+/.idea/modules/Problems/Balance management/Problems-Balance_management_test.iml
+/.idea/modules/Problems/Books/Problems-Books.iml
+/.idea/modules/Problems/Books/Problems-Books_main.iml
+/.idea/modules/Problems/Books/Problems-Books_test.iml
+/.idea/modules/Problems/Calculating factorials/Problems-Calculating_factorials.iml
+/.idea/modules/Problems/Calculating factorials/Problems-Calculating_factorials_main.iml
+/.idea/modules/Problems/Calculating factorials/Problems-Calculating_factorials_test.iml
+/.idea/modules/Problems/Check the given numbers are different/Problems-Check_the_given_numbers_are_different.iml
+/.idea/modules/Problems/Check the given numbers are different/Problems-Check_the_given_numbers_are_different_main.iml
+/.idea/modules/Problems/Check the given numbers are different/Problems-Check_the_given_numbers_are_different_test.iml
+/.idea/modules/Problems/Check the value/Problems-Check_the_value.iml
+/.idea/modules/Problems/Check the value/Problems-Check_the_value_main.iml
+/.idea/modules/Problems/Check the value/Problems-Check_the_value_test.iml
+/.idea/modules/Problems/Chocolate/Problems-Chocolate.iml
+/.idea/modules/Problems/Chocolate/Problems-Chocolate_main.iml
+/.idea/modules/Problems/Chocolate/Problems-Chocolate_test.iml
+/.idea/modules/Problems/Collatz conjecture/Problems-Collatz_conjecture.iml
+/.idea/modules/Problems/Collatz conjecture/Problems-Collatz_conjecture_main.iml
+/.idea/modules/Problems/Collatz conjecture/Problems-Collatz_conjecture_test.iml
+/.idea/modules/Problems/Complex numbers/Problems-Complex_numbers.iml
+/.idea/modules/Problems/Complex numbers/Problems-Complex_numbers_main.iml
+/.idea/modules/Problems/Complex numbers/Problems-Complex_numbers_test.iml
+/.idea/modules/Problems/Currencies/Problems-Currencies.iml
+/.idea/modules/Problems/Currencies/Problems-Currencies_main.iml
+/.idea/modules/Problems/Currencies/Problems-Currencies_test.iml
+/.idea/modules/Problems/Danger levels/Problems-Danger_levels.iml
+/.idea/modules/Problems/Danger levels/Problems-Danger_levels_main.iml
+/.idea/modules/Problems/Danger levels/Problems-Danger_levels_test.iml
+/.idea/modules/Problems/Direction/Problems-Direction.iml
+/.idea/modules/Problems/Direction/Problems-Direction_main.iml
+/.idea/modules/Problems/Direction/Problems-Direction_test.iml
+/.idea/modules/Problems/Even or odd/Problems-Even_or_odd.iml
+/.idea/modules/Problems/Even or odd/Problems-Even_or_odd_main.iml
+/.idea/modules/Problems/Even or odd/Problems-Even_or_odd_test.iml
+/.idea/modules/Problems/Exactly one parameter is positive/Problems-Exactly_one_parameter_is_positive.iml
+/.idea/modules/Problems/Exactly one parameter is positive/Problems-Exactly_one_parameter_is_positive_main.iml
+/.idea/modules/Problems/Exactly one parameter is positive/Problems-Exactly_one_parameter_is_positive_test.iml
+/.idea/modules/Problems/Fizz Buzz/Problems-Fizz_Buzz.iml
+/.idea/modules/Problems/Fizz Buzz/Problems-Fizz_Buzz_main.iml
+/.idea/modules/Problems/Fizz Buzz/Problems-Fizz_Buzz_test.iml
+/.idea/modules/Problems/Floor-space of the room/Problems-Floor-space_of_the_room.iml
+/.idea/modules/Problems/Floor-space of the room/Problems-Floor-space_of_the_room_main.iml
+/.idea/modules/Problems/Floor-space of the room/Problems-Floor-space_of_the_room_test.iml
+/.idea/modules/Problems/Healthy sleep/Problems-Healthy_sleep.iml
+/.idea/modules/Problems/Healthy sleep/Problems-Healthy_sleep_main.iml
+/.idea/modules/Problems/Healthy sleep/Problems-Healthy_sleep_test.iml
+/.idea/modules/Problems/In a box/Problems-In_a_box.iml
+/.idea/modules/Problems/In a box/Problems-In_a_box_main.iml
+/.idea/modules/Problems/In a box/Problems-In_a_box_test.iml
+/.idea/modules/Problems/Initializing an array of integers/Problems-Initializing_an_array_of_integers.iml
+/.idea/modules/Problems/Initializing an array of integers/Problems-Initializing_an_array_of_integers_main.iml
+/.idea/modules/Problems/Initializing an array of integers/Problems-Initializing_an_array_of_integers_test.iml
+/.idea/modules/Problems/Initializing an array of longs/Problems-Initializing_an_array_of_longs.iml
+/.idea/modules/Problems/Initializing an array of longs/Problems-Initializing_an_array_of_longs_main.iml
+/.idea/modules/Problems/Initializing an array of longs/Problems-Initializing_an_array_of_longs_test.iml
+/.idea/modules/Problems/Inner boxes/Problems-Inner_boxes.iml
+/.idea/modules/Problems/Inner boxes/Problems-Inner_boxes_main.iml
+/.idea/modules/Problems/Inner boxes/Problems-Inner_boxes_test.iml
+/.idea/modules/Problems/Integer part of a number/Problems-Integer_part_of_a_number.iml
+/.idea/modules/Problems/Integer part of a number/Problems-Integer_part_of_a_number_main.iml
+/.idea/modules/Problems/Integer part of a number/Problems-Integer_part_of_a_number_test.iml
+/.idea/modules/Problems/Representing time as a class/Problems-Representing_time_as_a_class.iml
+/.idea/modules/Problems/Representing time as a class/Problems-Representing_time_as_a_class_main.iml
+/.idea/modules/Problems/Representing time as a class/Problems-Representing_time_as_a_class_test.iml
+/.idea/modules/Problems/Size of parts/Problems-Size_of_parts.iml
+/.idea/modules/Problems/Size of parts/Problems-Size_of_parts_main.iml
+/.idea/modules/Problems/Size of parts/Problems-Size_of_parts_test.iml
+/.idea/modules/Problems/Squares of natural numbers/Problems-Squares_of_natural_numbers.iml
+/.idea/modules/Problems/Squares of natural numbers/Problems-Squares_of_natural_numbers_main.iml
+/.idea/modules/Problems/Squares of natural numbers/Problems-Squares_of_natural_numbers_test.iml
+/.idea/modules/Problems/Test learners/Problems-Test_learners.iml
+/.idea/modules/Problems/Test learners/Problems-Test_learners_main.iml
+/.idea/modules/Problems/Test learners/Problems-Test_learners_test.iml
+/.idea/modules/Problems/The (un)-ordered sequence/Problems-The__un_-ordered_sequence.iml
+/.idea/modules/Problems/The (un)-ordered sequence/Problems-The__un_-ordered_sequence_main.iml
+/.idea/modules/Problems/The (un)-ordered sequence/Problems-The__un_-ordered_sequence_test.iml
+/.idea/modules/Problems/The army of units/Problems-The_army_of_units.iml
+/.idea/modules/Problems/The army of units/Problems-The_army_of_units_main.iml
+/.idea/modules/Problems/The army of units/Problems-The_army_of_units_test.iml
+/.idea/modules/Problems/The product of numbers from a to b/Problems-The_product_of_numbers_from_a_to_b.iml
+/.idea/modules/Problems/The product of numbers from a to b/Problems-The_product_of_numbers_from_a_to_b_main.iml
+/.idea/modules/Problems/The product of numbers from a to b/Problems-The_product_of_numbers_from_a_to_b_test.iml
+/.idea/modules/Problems/The secret enumeration/Problems-The_secret_enumeration.iml
+/.idea/modules/Problems/The secret enumeration/Problems-The_secret_enumeration_main.iml
+/.idea/modules/Problems/The secret enumeration/Problems-The_secret_enumeration_test.iml
+/.idea/modules/Problems/The sequence/Problems-The_sequence.iml
+/.idea/modules/Problems/The sequence/Problems-The_sequence_main.iml
+/.idea/modules/Problems/The sequence/Problems-The_sequence_test.iml
+/.idea/modules/Problems/The sum of elements/Problems-The_sum_of_elements.iml
+/.idea/modules/Problems/The sum of elements/Problems-The_sum_of_elements_main.iml
+/.idea/modules/Problems/The sum of elements/Problems-The_sum_of_elements_test.iml
+/.idea/modules/Problems/User/Problems-User.iml
+/.idea/modules/Problems/User/Problems-User_main.iml
+/.idea/modules/Problems/User/Problems-User_test.iml
+/.idea/modules/Problems/Vowel or not/Problems-Vowel_or_not.iml
+/.idea/modules/Problems/Vowel or not/Problems-Vowel_or_not_main.iml
+/.idea/modules/Problems/Vowel or not/Problems-Vowel_or_not_test.iml
+/.idea/modules/util/util.iml
+/.idea/modules/util/util_main.iml
+/.idea/modules/util/util_test.iml
+/.idea/modules/Coffee_Machine.iml
+/.idea/.gitignore
+/.idea/.name
+/.idea/compiler.xml
+/.idea/gradle.xml
+/.idea/jarRepositories.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/Coffee Machine/Action!/task.html
+/Coffee Machine/Action!/task-info.yaml
+/Coffee Machine/Action!/task-remote-info.yaml
+/Coffee Machine/Brush your code/task.html
+/Coffee Machine/Brush your code/task-info.yaml
+/Coffee Machine/Brush your code/task-remote-info.yaml
+/Coffee Machine/Enough coffee for everyone/task.html
+/Coffee Machine/Enough coffee for everyone/task-info.yaml
+/Coffee Machine/Enough coffee for everyone/task-remote-info.yaml
+/Coffee Machine/Hello, coffee!/task.html
+/Coffee Machine/Hello, coffee!/task-info.yaml
+/Coffee Machine/Hello, coffee!/task-remote-info.yaml
+/Coffee Machine/Machines have needs/task.html
+/Coffee Machine/Machines have needs/task-info.yaml
+/Coffee Machine/Machines have needs/task-remote-info.yaml
+/Coffee Machine/On a coffee loop/task.html
+/Coffee Machine/On a coffee loop/task-info.yaml
+/Coffee Machine/On a coffee loop/task-remote-info.yaml
+/Coffee Machine/task/build/classes/java/main/machine/CoffeeMachine.class
+/Coffee Machine/task/build/classes/java/main/machine/CoffeeMaker.class
+/Coffee Machine/task/build/classes/java/main/machine/CoffeeMakerState.class
+/Coffee Machine/task/build/classes/java/test/CoffeeMachineTest.class
+/Coffee Machine/task/build/classes/java/test/TestClue.class
+/Coffee Machine/task/build/reports/tests/test/classes/CoffeeMachineTest.html
+/Coffee Machine/task/build/reports/tests/test/css/base-style.css
+/Coffee Machine/task/build/reports/tests/test/css/style.css
+/Coffee Machine/task/build/reports/tests/test/js/report.js
+/Coffee Machine/task/build/reports/tests/test/packages/default-package.html
+/Coffee Machine/task/build/reports/tests/test/index.html
+/Coffee Machine/task/build/test-results/test/binary/output.bin
+/Coffee Machine/task/build/test-results/test/binary/output.bin.idx
+/Coffee Machine/task/build/test-results/test/binary/results.bin
+/Coffee Machine/task/build/test-results/test/TEST-CoffeeMachineTest.xml
+/Coffee Machine/task/build/tmp/test/jar_extract_568425683333218193_tmp
+/Coffee Machine/task/build/tmp/test/jar_extract_1170639079505177424_tmp
+/Coffee Machine/task/build/tmp/test/jar_extract_3552784652168376714_tmp
+/Coffee Machine/task/build/tmp/test/jar_extract_8416972093807486986_tmp
+/Coffee Machine/task/build/tmp/test/jar_extract_8540324900997619940_tmp
+/Coffee Machine/task/build/tmp/test/jar_extract_11212148276906340294_tmp
+/Coffee Machine/task/build/tmp/test/jar_extract_12227045924114033166_tmp
+/Coffee Machine/task/build/tmp/test/jar_extract_12782472761371213595_tmp
+/Coffee Machine/task/build/tmp/test/jar_extract_13031318566172811483_tmp
+/Coffee Machine/task/build/tmp/test/jar_extract_13466665001662455135_tmp
+/Coffee Machine/task/build/tmp/test/jar_extract_17075129818853756875_tmp
+/Coffee Machine/task/out/production/classes/machine/CoffeeMachine.class
+/Coffee Machine/task/out/production/classes/machine/CoffeeMaker.class
+/Coffee Machine/task/out/production/classes/machine/CoffeeMakerState.class
+/Coffee Machine/task/out/test/classes/CoffeeMachineTest.class
+/Coffee Machine/task/out/test/classes/TestClue.class
+/Coffee Machine/task/test/CoffeeMachineTest.java
+/Coffee Machine/lesson-info.yaml
+/gradle/wrapper/gradle-wrapper.jar
+/gradle/wrapper/gradle-wrapper.properties
+/Problems/Account/src/Main.java
+/Problems/Account/task.html
+/Problems/Account/task-info.yaml
+/Problems/Account/task-remote-info.yaml
+/Problems/Account and its owner/src/Main.java
+/Problems/Account and its owner/task.html
+/Problems/Account and its owner/task-info.yaml
+/Problems/Account and its owner/task-remote-info.yaml
+/Problems/Application as a class/src/Main.java
+/Problems/Application as a class/task.html
+/Problems/Application as a class/task-info.yaml
+/Problems/Application as a class/task-remote-info.yaml
+/Problems/Balance management/src/Main.java
+/Problems/Balance management/task.html
+/Problems/Balance management/task-info.yaml
+/Problems/Balance management/task-remote-info.yaml
+/Problems/Books/out/production/classes/Book.class
+/Problems/Books/src/Main.java
+/Problems/Books/task.html
+/Problems/Books/task-info.yaml
+/Problems/Books/task-remote-info.yaml
+/Problems/Calculating factorials/out/production/classes/Main.class
+/Problems/Calculating factorials/src/Main.java
+/Problems/Calculating factorials/task.html
+/Problems/Calculating factorials/task-info.yaml
+/Problems/Calculating factorials/task-remote-info.yaml
+/Problems/Check the given numbers are different/out/production/classes/Main.class
+/Problems/Check the given numbers are different/src/Main.java
+/Problems/Check the given numbers are different/task.html
+/Problems/Check the given numbers are different/task-info.yaml
+/Problems/Check the given numbers are different/task-remote-info.yaml
+/Problems/Check the value/out/production/classes/Main.class
+/Problems/Check the value/src/Main.java
+/Problems/Check the value/task.html
+/Problems/Check the value/task-info.yaml
+/Problems/Check the value/task-remote-info.yaml
+/Problems/Chocolate/out/production/classes/Main.class
+/Problems/Chocolate/src/Main.java
+/Problems/Chocolate/task.html
+/Problems/Chocolate/task-info.yaml
+/Problems/Chocolate/task-remote-info.yaml
+/Problems/Collatz conjecture/out/production/classes/Main.class
+/Problems/Collatz conjecture/src/Main.java
+/Problems/Collatz conjecture/task.html
+/Problems/Collatz conjecture/task-info.yaml
+/Problems/Collatz conjecture/task-remote-info.yaml
+/Problems/Complex numbers/src/Main.java
+/Problems/Complex numbers/task.html
+/Problems/Complex numbers/task-info.yaml
+/Problems/Complex numbers/task-remote-info.yaml
+/Problems/Currencies/src/Main.java
+/Problems/Currencies/task.html
+/Problems/Currencies/task-info.yaml
+/Problems/Currencies/task-remote-info.yaml
+/Problems/Danger levels/src/Main.java
+/Problems/Danger levels/task.html
+/Problems/Danger levels/task-info.yaml
+/Problems/Danger levels/task-remote-info.yaml
+/Problems/Direction/out/production/classes/Main.class
+/Problems/Direction/src/Main.java
+/Problems/Direction/task.html
+/Problems/Direction/task-info.yaml
+/Problems/Direction/task-remote-info.yaml
+/Problems/Even or odd/out/production/classes/Main.class
+/Problems/Even or odd/src/Main.java
+/Problems/Even or odd/task.html
+/Problems/Even or odd/task-info.yaml
+/Problems/Even or odd/task-remote-info.yaml
+/Problems/Exactly one parameter is positive/out/production/classes/Main.class
+/Problems/Exactly one parameter is positive/src/Main.java
+/Problems/Exactly one parameter is positive/task.html
+/Problems/Exactly one parameter is positive/task-info.yaml
+/Problems/Exactly one parameter is positive/task-remote-info.yaml
+/Problems/Fizz Buzz/out/production/classes/Main.class
+/Problems/Fizz Buzz/src/Main.java
+/Problems/Fizz Buzz/task.html
+/Problems/Fizz Buzz/task-info.yaml
+/Problems/Fizz Buzz/task-remote-info.yaml
+/Problems/Floor-space of the room/out/production/classes/Main.class
+/Problems/Floor-space of the room/src/Main.java
+/Problems/Floor-space of the room/task.html
+/Problems/Floor-space of the room/task-info.yaml
+/Problems/Floor-space of the room/task-remote-info.yaml
+/Problems/Healthy sleep/out/production/classes/Main.class
+/Problems/Healthy sleep/src/Main.java
+/Problems/Healthy sleep/task.html
+/Problems/Healthy sleep/task-info.yaml
+/Problems/Healthy sleep/task-remote-info.yaml
+/Problems/In a box/src/Main.java
+/Problems/In a box/task.html
+/Problems/In a box/task-info.yaml
+/Problems/In a box/task-remote-info.yaml
+/Problems/Initializing an array of integers/out/production/classes/Main.class
+/Problems/Initializing an array of integers/src/Main.java
+/Problems/Initializing an array of integers/task.html
+/Problems/Initializing an array of integers/task-info.yaml
+/Problems/Initializing an array of integers/task-remote-info.yaml
+/Problems/Initializing an array of longs/out/production/classes/Main.class
+/Problems/Initializing an array of longs/src/Main.java
+/Problems/Initializing an array of longs/task.html
+/Problems/Initializing an array of longs/task-info.yaml
+/Problems/Initializing an array of longs/task-remote-info.yaml
+/Problems/Inner boxes/out/production/classes/Box.class
+/Problems/Inner boxes/src/Main.java
+/Problems/Inner boxes/task.html
+/Problems/Inner boxes/task-info.yaml
+/Problems/Inner boxes/task-remote-info.yaml
+/Problems/Integer part of a number/out/production/classes/Main.class
+/Problems/Integer part of a number/src/Main.java
+/Problems/Integer part of a number/task.html
+/Problems/Integer part of a number/task-info.yaml
+/Problems/Integer part of a number/task-remote-info.yaml
+/Problems/Representing time as a class/out/production/classes/Time.class
+/Problems/Representing time as a class/src/Main.java
+/Problems/Representing time as a class/task.html
+/Problems/Representing time as a class/task-info.yaml
+/Problems/Representing time as a class/task-remote-info.yaml
+/Problems/Size of parts/out/production/classes/Main.class
+/Problems/Size of parts/src/Main.java
+/Problems/Size of parts/task.html
+/Problems/Size of parts/task-info.yaml
+/Problems/Size of parts/task-remote-info.yaml
+/Problems/Squares of natural numbers/out/production/classes/Main.class
+/Problems/Squares of natural numbers/src/Main.java
+/Problems/Squares of natural numbers/task.html
+/Problems/Squares of natural numbers/task-info.yaml
+/Problems/Squares of natural numbers/task-remote-info.yaml
+/Problems/Test learners/out/production/classes/Main.class
+/Problems/Test learners/src/Main.java
+/Problems/Test learners/task.html
+/Problems/Test learners/task-info.yaml
+/Problems/Test learners/task-remote-info.yaml
+/Problems/The (un)-ordered sequence/out/production/classes/Main.class
+/Problems/The (un)-ordered sequence/src/Main.java
+/Problems/The (un)-ordered sequence/task.html
+/Problems/The (un)-ordered sequence/task-info.yaml
+/Problems/The (un)-ordered sequence/task-remote-info.yaml
+/Problems/The army of units/out/production/classes/Main.class
+/Problems/The army of units/src/Main.java
+/Problems/The army of units/task.html
+/Problems/The army of units/task-info.yaml
+/Problems/The army of units/task-remote-info.yaml
+/Problems/The product of numbers from a to b/out/production/classes/Main.class
+/Problems/The product of numbers from a to b/src/Main.java
+/Problems/The product of numbers from a to b/task.html
+/Problems/The product of numbers from a to b/task-info.yaml
+/Problems/The product of numbers from a to b/task-remote-info.yaml
+/Problems/The secret enumeration/src/Main.java
+/Problems/The secret enumeration/task.html
+/Problems/The secret enumeration/task-info.yaml
+/Problems/The secret enumeration/task-remote-info.yaml
+/Problems/The sequence/out/production/classes/Main.class
+/Problems/The sequence/src/Main.java
+/Problems/The sequence/task.html
+/Problems/The sequence/task-info.yaml
+/Problems/The sequence/task-remote-info.yaml
+/Problems/The sum of elements/out/production/classes/Main.class
+/Problems/The sum of elements/src/Main.java
+/Problems/The sum of elements/task.html
+/Problems/The sum of elements/task-info.yaml
+/Problems/The sum of elements/task-remote-info.yaml
+/Problems/User/src/Main.java
+/Problems/User/task.html
+/Problems/User/task-info.yaml
+/Problems/User/task-remote-info.yaml
+/Problems/Vowel or not/out/production/classes/Main.class
+/Problems/Vowel or not/src/Main.java
+/Problems/Vowel or not/task.html
+/Problems/Vowel or not/task-info.yaml
+/Problems/Vowel or not/task-remote-info.yaml
+/Problems/lesson-info.yaml
+/build.gradle
+/course-info.yaml
+/course-remote-info.yaml
+/gradlew
+/gradlew.bat
+/settings.gradle
